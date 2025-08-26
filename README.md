@@ -24,4 +24,6 @@
 Developed by hoangtien47.
 
 ## License
-This project is for educational and entertainment purposes.
+Copyright (c) 2025 hoangtien47
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this game for personal, educational, or commercial purposes. See the LICENSE file for full details.
