@@ -1,4 +1,4 @@
-# Snow Drift
+# Drift
 
 - Drift is a casual drifting game where players control cars to perform stylish drifts and complete fun challenges. Designed for quick play sessions, the game features simple controls, vibrant graphics, and a variety of cars and environments.
 
